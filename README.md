@@ -5,6 +5,9 @@ python3.6 pytorch 0.3.1
 #### note
 always use git clone --recursive https://github.com/djshu/TRN-pytorch to clone this project Otherwise you will not be able to use the inception series CNN architecture.
 
+#### dataset:
+[Something-Something V1](https://20bn.com/datasets/something-something/v1)
+
 ## S0, BNInception RelationModuleMultiScaleWithClassifier_h_after_sum
 ### train
 ```bash
